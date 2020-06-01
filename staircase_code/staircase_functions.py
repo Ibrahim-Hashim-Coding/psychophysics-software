@@ -4,8 +4,10 @@
 
 Script containing functions for staircases for the DeWeerd Lab Psychophysics Software
 
-Last edited: 21/04/2020 by Ibrahim Che Hashim
+Last edited: 01/06/2020 by Ibrahim Che Hashim
 Saved on github under https://github.com/Ibrahim-Hashim-Coding/psychophysics-software
+
+'''
 # Import libraries needed to run
 import random
 
