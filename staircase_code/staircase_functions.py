@@ -1,4 +1,4 @@
-'''
+"""
 @author Ibrahim Che Hashim
 @email ibrahimhashim.coding@gmail.com/coding.hashim@gmail.com
 
@@ -6,8 +6,8 @@ Script containing functions for staircases for the DeWeerd Lab Psychophysics Sof
 
 Last edited: 01/06/2020 by Ibrahim Che Hashim
 Saved on github under https://github.com/Ibrahim-Hashim-Coding/psychophysics-software
+"""
 
-'''
 # Import libraries needed to run
 import random
 
