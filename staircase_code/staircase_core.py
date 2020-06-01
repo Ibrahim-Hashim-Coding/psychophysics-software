@@ -1,4 +1,4 @@
-'''
+"""
 @author Ibrahim Che Hashim
 @email ibrahimhashim.coding@gmail.com/coding.hashim@gmail.com
 
@@ -13,8 +13,8 @@ store log + data file in individual file, labeled with participant id and time +
 
 DeWeerd Lab Psychophysics Software -> Users -> User A -> Parameter Files 
                                                          Data -> Parameter File Names -> Participant ID -> Log File and Data File
+"""
 
-'''
 from psychopy import visual, event, core
 import staircase_functions
 
