@@ -5,7 +5,7 @@
 Script containing the core function for the staircase option in the DeWeerdLab psychophysics software
 
 Last edited: 01/06/2020 by Ibrahim Che Hashim
-Saved on github under https://github.com/coding-hashim/deweerdlab_psychophysics_software
+Saved on github under https://github.com/Ibrahim-Hashim-Coding/psychophysics-software
 
 
 STORING DATA -> 
